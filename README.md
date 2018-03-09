@@ -37,6 +37,10 @@ how to use github
 
 **原來語法是這樣出來的**
 
+:heart:  :sunny:  
+
+:cherry_blossom:  :four_leaf_clover:
+
 ----
 
 | Left ALigned | Center Aligned | Right Aligned |
