@@ -6,7 +6,6 @@ how to use github
 #### 0624716 sman
 ---
 >內科部
-
 >>心臟內科\
 >>一般內科\
 >>胃腸科\
@@ -37,3 +36,36 @@ how to use github
 ~~真有趣~~
 
 **原來語法是這樣出來的**
+
+----
+
+| Left ALigned | Center Aligned | Right Aligned |
+| :----------- | :------------: | ------------: |
+| 1   | 2   | 3  |
+| 4   | 5   | 6  |
+| 7   | 8   | 9  |
+| test | test | $1234 |
+
+----
+
+`123456ASDF`
+
+```
+123
+456
+789
+ABCDEFG
+```
+
+---
+
+```python
+Code to directly use in file to
+create directory in home location
+Note:- I Have used python package so if you want
+to create in the main directory of your project use
+pardir+"\\"+name in functions
+All the folder operations are done on home
+project directory.
+
+---
